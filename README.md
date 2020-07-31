@@ -3,12 +3,12 @@ A coding challenge for prospective Senior iOS Developers applying for a role on 
 
 ### Table of Contents
 
+- [Goals](#goals)
 - [Submission Details and Evaluation Criteria](#submission-details-and-evaluation-criteria)
 	- [Preparing Your Local Env](#preparing-your-local-env)
 	- [Assignment](#assignment)
 	- [Evaluation and Scoring](#evaluation-and-scoring)
 		- [Scoring](#scoring)
-	- [Goals](#goals)
 - [CI/CD Automated Testing of Submissions](#ci-cd-automated-testing-of-submissions)
 - [Dev Team Swift/iOS Documentation Standards](#dev-team-swift-ios-documentation-standards)
 - [Signed Commits with GPG](#signed-commits-with-gpg) (Required) 
