@@ -75,7 +75,11 @@ In order to set transparent expectations, the following list enumerates the *min
 	- The very **latest release version** of Xcode is required.
 		- Beta versions of Xcode should **not** be used.
 - Check your local swift version.
-	- **Swift version 5.2 (or higher)** is required
+	- **Swift version 5.3 (or higher)** is required and may require manual update (if not installed through Xcode)
+	- Install from [Swift.org](https://swift.org) if your local Swift version is not 5.3 or higher
+- Check your local swift-tools version.
+	- **Swift-Tools version 5.3 (or higher)** is required
+	- Install from [Swift.org](https://swift.org) if your local tools are not 5.3 or higher
 - The targeted iOS version for any submission should be **iOS 13.0**
 	- In general, make sure to double check your project settings.
 	- There is a starter project with some of this configured already, but you’ll need to make sure the final matches the requirements.
