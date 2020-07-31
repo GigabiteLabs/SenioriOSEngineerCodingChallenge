@@ -7,26 +7,26 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		37D50F1524D4DDBC00A714B0 /* TestClass.swift in Sources */ = {isa = PBXBuildFile; fileRef = 37D50F1424D4DDBC00A714B0 /* TestClass.swift */; };
 		60CB4D4321F9C8BFBCA062074DA0D785 /* senior-dev-submission-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = D460730F1C470BE9F919BA73E14B76B6 /* senior-dev-submission-dummy.m */; };
 		75A465594768841BF637C9D3F54BBAF5 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 5FB59A7E00633326C07D1CC574B82C89 /* Foundation.framework */; };
 		8AB7A03C1BFC8F865126940E03AB610A /* senior-dev-submission-umbrella.h in Headers */ = {isa = PBXBuildFile; fileRef = C7A1AA08532C305C098D68D021483A1F /* senior-dev-submission-umbrella.h */; settings = {ATTRIBUTES = (Public, ); }; };
-		BCCAD0655C666D231DADB1F77F69EC15 /* ReplaceMe.swift in Sources */ = {isa = PBXBuildFile; fileRef = EC843FD7F8BAC05305037CDB78A68AFA /* ReplaceMe.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
-		1C349D158E19305F6735E6552D959133 /* senior-dev-submission.podspec */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; indentWidth = 2; lastKnownFileType = text; path = "senior-dev-submission.podspec"; sourceTree = "<group>"; tabWidth = 2; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
-		1DA39A9574F50EAC9ADDCC5D1FA871FA /* LICENSE */ = {isa = PBXFileReference; includeInIndex = 1; path = LICENSE; sourceTree = "<group>"; };
+		1C349D158E19305F6735E6552D959133 /* senior-dev-submission.podspec */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; indentWidth = 2; path = "senior-dev-submission.podspec"; sourceTree = "<group>"; tabWidth = 2; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
+		1DA39A9574F50EAC9ADDCC5D1FA871FA /* LICENSE */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; path = LICENSE; sourceTree = "<group>"; };
+		37D50F1424D4DDBC00A714B0 /* TestClass.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TestClass.swift; sourceTree = "<group>"; };
 		3809283A0D379F684A8AC98702AA43CB /* senior-dev-submission.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "senior-dev-submission.debug.xcconfig"; sourceTree = "<group>"; };
 		5FB59A7E00633326C07D1CC574B82C89 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS12.2.sdk/System/Library/Frameworks/Foundation.framework; sourceTree = DEVELOPER_DIR; };
 		91967FA946E724A6FACE6D2E6AD3F99C /* senior-dev-submission.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.module; path = "senior-dev-submission.modulemap"; sourceTree = "<group>"; };
 		961B3FCBB674B936F9922C6110671C78 /* senior-dev-submission.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "senior-dev-submission.release.xcconfig"; sourceTree = "<group>"; };
 		C39A5789C3CC279CBDFAC6E65EA51953 /* senior-dev-submission-prefix.pch */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "senior-dev-submission-prefix.pch"; sourceTree = "<group>"; };
 		C7A1AA08532C305C098D68D021483A1F /* senior-dev-submission-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "senior-dev-submission-umbrella.h"; sourceTree = "<group>"; };
-		C8A9F34789CA25CCE71BFE27DB80288A /* README.md */ = {isa = PBXFileReference; includeInIndex = 1; path = README.md; sourceTree = "<group>"; };
+		C8A9F34789CA25CCE71BFE27DB80288A /* README.md */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 		D460730F1C470BE9F919BA73E14B76B6 /* senior-dev-submission-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "senior-dev-submission-dummy.m"; sourceTree = "<group>"; };
 		DA906A55A4A7A1B5CA010DE6D1EED0BA /* senior-dev-submission-Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "senior-dev-submission-Info.plist"; sourceTree = "<group>"; };
-		DC142EFE8D24ED9B1DC9F88273F09CE0 /* senior_dev_submission.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = senior_dev_submission.framework; path = "senior-dev-submission.framework"; sourceTree = BUILT_PRODUCTS_DIR; };
-		EC843FD7F8BAC05305037CDB78A68AFA /* ReplaceMe.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = ReplaceMe.swift; path = "senior-dev-submission/Classes/ReplaceMe.swift"; sourceTree = "<group>"; };
+		DC142EFE8D24ED9B1DC9F88273F09CE0 /* senior_dev_submission.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = senior_dev_submission.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -78,7 +78,7 @@
 		986DFC70AA0C5664EC8127456157B1CF /* senior-dev-submission */ = {
 			isa = PBXGroup;
 			children = (
-				EC843FD7F8BAC05305037CDB78A68AFA /* ReplaceMe.swift */,
+				37D50F1424D4DDBC00A714B0 /* TestClass.swift */,
 				30C4DBBCEC8D4D39CF114A053BB233C8 /* Pod */,
 				9D35FA343A95B8DE1EB9CC55AAAD7C29 /* Support Files */,
 			);
@@ -184,7 +184,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				BCCAD0655C666D231DADB1F77F69EC15 /* ReplaceMe.swift in Sources */,
+				37D50F1524D4DDBC00A714B0 /* TestClass.swift in Sources */,
 				60CB4D4321F9C8BFBCA062074DA0D785 /* senior-dev-submission-dummy.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -245,8 +245,7 @@
 				MTL_FAST_MATH = YES;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				STRIP_INSTALLED_PRODUCT = NO;
-				SWIFT_COMPILATION_MODE = wholemodule;
-				SWIFT_OPTIMIZATION_LEVEL = "-O";
+				SWIFT_OPTIMIZATION_LEVEL = "-Owholemodule";
 				SWIFT_VERSION = 5.0;
 				SYMROOT = "${SRCROOT}/../build";
 			};
