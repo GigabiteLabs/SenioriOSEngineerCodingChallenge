@@ -69,7 +69,7 @@ In order to set transparent expectations, the following list enumerates the *min
 
 ## Preparing Your Local Development Env
 
-- Make sure you have [enabled signed commits with a PGP key](#signed-commits-with-gpg) on any machine you use during your submission. 
+- Make sure you have [enabled signed commits with a GPG key](#signed-commits-with-gpg) on any machine you use during your submission. 
 	- 100% signed commits are required for any submission to be evaluated.
 - Check your local version of Xcode
 	- The very **latest release version** of Xcode is required.
@@ -115,7 +115,7 @@ You will also demonstrate a more general mastery of advanced software developmen
 	- each bullet represents 1 requirement
 	- partial points for this category will be awarded by divding 20pts by the number of requirements on the assignment. (ex: 10 requirements == 2pts each)
 - **5 pts**: Basic security hygiene is practiced without exception, including:
-	- All commits are verified using PGP signatures. See this guide to setup your local machine for signed commits.
+	- All commits are verified using GPG signatures. See this guide to setup your local machine for signed commits.
 	- No authentication credentials or API keys are hard-coded in the submission project or framework example project (use env vars for your submission).
 	- No hard-coded URLs (use env vars for your submission).
 	- No blanket enablement of arbitrary loads (don’t change default NSTransportation Security settings to blanket-allow HTTP requests)
@@ -215,7 +215,7 @@ Tips:
 
 ## Signed Commits with GPG
 
-Before you commit anything to your submission branch, setup / verify your local config of PGP signed commits. 
+Before you commit anything to your submission branch, setup / verify your local config of GPG signed commits. 
 
 **No submission will be evaluated unless all commits in the submission are signed.**
 
