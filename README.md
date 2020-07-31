@@ -3,7 +3,7 @@ A coding challenge for prospective Senior iOS Developers applying for a role on 
 
 ### Table of Contents
 
-- [Details, Goals, & Submission Evaluation](#details-goals-submission-evaluation)
+- [Submission Details and Evaluation Criteria](#submission-details-and-evaluation-criteria)
 	- [Preparing Your Local Env](#preparing-your-local-env)
 	- [Assignment](#assignment)
 	- [Evaluation & Scoring](#evaluation-scoring)
@@ -13,7 +13,7 @@ A coding challenge for prospective Senior iOS Developers applying for a role on 
 - [Dev Team Swift/iOS Documentation Standards](#dev-team-swift-ios-documentation-standards)
 - [Signed Commits with GPG](#signed-commits-with-gpg) (Required) 
 
-## Details, Goals, & Submission Evaluation
+## Submission Details and Evaluation Criteria
 ### Preparing Your Local Env
 
 - Make sure you have [enabled signed commits with a PGP key](#signed-commits-with-gpg) on any machine you use during your submission. 
