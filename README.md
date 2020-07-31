@@ -9,7 +9,7 @@ A coding challenge for prospective Senior iOS Developers applying for a role on 
 	- [Assignment](#assignment)
 	- [Evaluation and Scoring](#evaluation-and-scoring)
 		- [Scoring](#scoring)
-- [CI/CD Automated Testing of Submissions](#ci-cd-automated-testing-of-submissions)
+- [Continuous Integration and Automated Analysis of Submissions ](#continuous-integration-and-automated-analysis-of-submissions)
 - [Dev Team Swift/iOS Documentation Standards](#dev-team-swift-ios-documentation-standards)
 - [Signed Commits with GPG](#signed-commits-with-gpg) (Required) 
 
@@ -130,7 +130,7 @@ You will also demonstrate a more general mastery of advanced software developmen
 
 **Total:** 100 possible points
 
-## CI/CD Automated Testing of Submissions 
+## Continuous Integration and Automated Analysis of Submissions 
 All submissions will statically analyzed using a service called [CodeBeat](https://codebeat.io), and unit tested using [Travis](https://travis-ci.io)
 
  - Both Static Analysis & Unit Tests are required to pass before a submission will be evaluated.
