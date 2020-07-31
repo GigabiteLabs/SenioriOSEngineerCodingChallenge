@@ -32,8 +32,11 @@ All of the goals and requirements for your local ENV and general performance of 
 ### Assignment
 In order to ensure every assignment is alloted the same amount of time & that evaluation is fair, the assignment will only be provided directly via DM or email as a PDF document.
 
-**Requirement:**
-You should include the assignment PDF in the root directory of your submission branch. Please do not change the filename, just paste the document verbatim.
+**Requirements:**
+- Make sure to include the assignment PDF in the root directory of your submission branch.
+	- Please do not change the filename, just paste the document verbatim.
+- Use the starter project in this repository during your submission process.
+	- Do not create a separate or new project.
 
 ### Evaluation and Scoring
 During the completion of this challenge, you will be expected to demonstrate experience with several technologies that are key components of our application development workflow, and that you will work with every day on our team. 
