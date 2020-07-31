@@ -6,7 +6,7 @@ A coding challenge for prospective Senior iOS Developers applying for a role on 
 - [Submission Details and Evaluation Criteria](#submission-details-and-evaluation-criteria)
 	- [Preparing Your Local Env](#preparing-your-local-env)
 	- [Assignment](#assignment)
-	- [Evaluation & Scoring](#evaluation-scoring)
+	- [Evaluation and Scoring](#evaluation-and-scoring)
 		- [Scoring](#scoring)
 	- [Goals](#goals)
 - [CI/CD Automated Testing of Submissions](#ci-cd-automated-testing-of-submissions)
@@ -35,7 +35,7 @@ In order to ensure every assignment is alloted the same amount of time & that ev
 **Note:**
 You are to include this PDF in the root directory of your submission branch. Please do not change the filename.
 
-### Evaluation & Scoring
+### Evaluation and Scoring
 During the completion of this challenge, you will be expected to demonstrate experience with several technologies that are key components of our application development workflow, and that you will work with every day on our team. 
 
 You will also demonstrate a more general mastery of advanced software development & application development concepts in Swift for Apple platforms. 
