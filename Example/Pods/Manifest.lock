@@ -1,0 +1,16 @@
+PODS:
+  - senior-dev-submission (0.1.0)
+
+DEPENDENCIES:
+  - senior-dev-submission (from `../`)
+
+EXTERNAL SOURCES:
+  senior-dev-submission:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  senior-dev-submission: 82d374030aa0585bf9cb40b3aef6110b7e20262e
+
+PODFILE CHECKSUM: 543bc5ac251d75e0deb4c2bf7df660239104baaa
+
+COCOAPODS: 1.9.3

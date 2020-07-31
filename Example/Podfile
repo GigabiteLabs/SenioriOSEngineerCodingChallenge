@@ -1,0 +1,19 @@
+# Min target
+platform :ios, '13.0'
+
+## Pod install settings
+## Configured for using separate projects (more performant)
+install! 'cocoapods',
+generate_multiple_pod_projects: true,
+incremental_installation: true
+use_modular_headers!
+use_frameworks!
+
+target 'senior-dev-submission_Example' do
+  pod 'senior-dev-submission', :path => '../'
+
+  target 'senior-dev-submission_Tests' do
+    inherit! :search_paths
+
+  end
+end

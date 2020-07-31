@@ -1,0 +1,6 @@
+framework module senior_dev_submission {
+  umbrella header "senior-dev-submission-umbrella.h"
+
+  export *
+  module * { export * }
+}

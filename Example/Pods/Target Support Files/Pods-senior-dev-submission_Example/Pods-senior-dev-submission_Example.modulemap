@@ -1,0 +1,6 @@
+framework module Pods_senior_dev_submission_Example {
+  umbrella header "Pods-senior-dev-submission_Example-umbrella.h"
+
+  export *
+  module * { export * }
+}

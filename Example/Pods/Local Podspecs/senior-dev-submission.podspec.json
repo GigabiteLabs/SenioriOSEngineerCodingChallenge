@@ -1,0 +1,33 @@
+{
+  "name": "senior-dev-submission",
+  "version": "0.1.0",
+  "summary": "A coding challenge for prospective Senior iOS Developers at GigabiteLabs.",
+  "description": "'A coding challenge for prospective Senior iOS Developers at GigabiteLabs.'",
+  "homepage": "https://gigabitelabs.com",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "GigabiteLabs": "engineering@gigabitelabs.com"
+  },
+  "source": {
+    "git": "https://github.com/GigabiteLabs/senior-dev-submission.git",
+    "tag": "0.1.0"
+  },
+  "social_media_url": "https://twitter.com/gigabitelabs",
+  "platforms": {
+    "ios": "13.0"
+  },
+  "swift_versions": "5.2",
+  "source_files": "senior-dev-submission/Classes/**/*",
+  "testspecs": [
+    {
+      "name": "senior-dev-submission_Tests",
+      "test_type": "unit",
+      "requires_app_host": true,
+      "source_files": "Example/Tests/Sources/*.{swift}"
+    }
+  ],
+  "swift_version": "5.2"
+}

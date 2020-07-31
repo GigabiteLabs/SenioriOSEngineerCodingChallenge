@@ -1,0 +1,12 @@
+Pods-senior-dev-submission_Example:
+  LABEL: Pods-senior-dev-submission_Example
+  PROJECT_PATH: Pods.xcodeproj
+  UUID: A73E497D3B346D874211A992A5EEE94E
+Pods-senior-dev-submission_Tests:
+  LABEL: Pods-senior-dev-submission_Tests
+  PROJECT_PATH: Pods.xcodeproj
+  UUID: AD68082C91E00004BBAD5E7E84319F8A
+senior-dev-submission:
+  LABEL: senior-dev-submission
+  PROJECT_PATH: senior-dev-submission.xcodeproj
+  UUID: 485D3CB5515576B501561533632F28F4

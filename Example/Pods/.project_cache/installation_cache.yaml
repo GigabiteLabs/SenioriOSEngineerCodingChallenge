@@ -1,0 +1,29 @@
+BUILD_CONFIGURATIONS:
+  Debug: :debug
+  Release: :release
+CACHE_KEYS:
+  Pods-senior-dev-submission_Example:
+    BUILD_SETTINGS_CHECKSUM:
+      Debug: 869ef02945df16dba299e9631d476d1a
+      Release: 869ef02945df16dba299e9631d476d1a
+  Pods-senior-dev-submission_Tests:
+    BUILD_SETTINGS_CHECKSUM:
+      Debug: 553be04878c154ce76ea90d0b4ee2359
+      Release: 553be04878c154ce76ea90d0b4ee2359
+  senior-dev-submission:
+    BUILD_SETTINGS_CHECKSUM:
+      senior-dev-submission:
+        :debug: 94c878974150728f15f987236cce27d7
+        :release: 94c878974150728f15f987236cce27d7
+    CHECKSUM: 82d374030aa0585bf9cb40b3aef6110b7e20262e
+    FILES:
+      - "../../LICENSE"
+      - "../../README.md"
+      - "../../senior-dev-submission/Classes/ReplaceMe.swift"
+    PROJECT_NAME: senior-dev-submission
+    SPECS:
+      - senior-dev-submission (0.1.0)
+OBJECT_VERSION: 46
+PLUGINS:
+  cocoapods-stats:
+    {}
