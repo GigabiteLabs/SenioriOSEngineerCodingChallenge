@@ -1,5 +1,5 @@
 [![Build Status](https://travis-ci.org/GigabiteLabs/SenioriOSEngineerCodingChallenge.svg?branch=submissions)](https://travis-ci.org/GigabiteLabs/SenioriOSEngineerCodingChallenge)
-[![codebeat badge](https://codebeat.co/badges/22031e5c-f00f-4127-af12-9210f0afe930)](https://codebeat.co/projects/github-com-gigabitelabs-senioriosengineercodingchallenge-submissions)
+[![codebeat badge](https://codebeat.co/badges/9f330cbe-dcfd-4b30-9315-92f9a87da1e5)](https://codebeat.co/projects/github-com-gigabitelabs-senioriosengineercodingchallenge-submissions)
 
 # SenioriOSEngineerCodingChallenge
 A coding challenge for prospective Senior iOS Developers applying for a role on the GigabiteLabs iOS developer team.
