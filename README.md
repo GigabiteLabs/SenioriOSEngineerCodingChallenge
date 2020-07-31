@@ -4,8 +4,8 @@ A coding challenge for prospective Senior iOS Developers applying for a role on 
 ### Table of Contents
 
 - [Goals](#goals)
+- [Preparing Your Local Development Env](#preparing-your-local-development-env)
 - [Submission Details and Evaluation Criteria](#submission-details-and-evaluation-criteria)
-	- [Preparing Your Local Env](#preparing-your-local-env)
 	- [Assignment](#assignment)
 	- [Evaluation and Scoring](#evaluation-and-scoring)
 		- [Scoring](#scoring)
@@ -67,8 +67,7 @@ In order to set transparent expectations, the following list enumerates the *min
 
 > Protip: if you feel as though you are adding something that is listed as a goal, but you do not feel that you have a good or clear justification for where or why you are adding it, you may be adding that feature / functionality in the wrong or non-optimal part of your assignment’s codebase.
 
-## Submission Details and Evaluation Criteria
-### Preparing Your Local Env
+## Preparing Your Local Development Env
 
 - Make sure you have [enabled signed commits with a PGP key](#signed-commits-with-gpg) on any machine you use during your submission. 
 	- 100% signed commits are required for any submission to be evaluated.
@@ -82,6 +81,8 @@ In order to set transparent expectations, the following list enumerates the *min
 	- There is a starter project with some of this configured already, but you’ll need to make sure the final matches the requirements.
 
 All of the goals and requirements for your local ENV and general performance of work enumerated here are the *same* as what you will need to perform the work on a day-to-day basis, so consider this challenge as both a test of your skills, and an orientation to our development workflow for senior engineers. (aka, no lost time if you do end up joining the team).
+
+## Submission Details and Evaluation Criteria
 
 ### Assignment
 In order to ensure every assignment is alloted the same amount of time & that evaluation is fair, the assignment will only be provided directly via DM or email as a PDF document.
