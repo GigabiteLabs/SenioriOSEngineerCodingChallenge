@@ -24,16 +24,16 @@ A coding challenge for prospective Senior iOS Developers applying for a role on 
 - Check your local swift version.
 	- **Swift version 5.2 (or higher)** is required
 - The targeted iOS version for any submission should be **iOS 13.0**
+	- In general, make sure to double check your project settings.
+	- There is a starter project with some of this configured already, but you’ll need to make sure the final matches the requirements.
 
-In general, make sure to double check your project settings. 
-
-There is a starter project with some of this configured already, but you’ll need to make sure the final matches the requirements.
+All of the goals and requirements for your local ENV and general performance of work enumerated here are the *same* as what you will need to perform the work on a day-to-day basis, so consider this challenge as both a test of your skills, and an orientation to our development workflow for senior engineers. (aka, no lost time if you do end up joining the team).
 
 ### Assignment
-In order to ensure every assignment is alloted the same amount of time & that evaluation is fair, the assignment will only be provided directly via DM or email as a PDF document. 
+In order to ensure every assignment is alloted the same amount of time & that evaluation is fair, the assignment will only be provided directly via DM or email as a PDF document.
 
-**Note:**
-You are to include this PDF in the root directory of your submission branch. Please do not change the filename.
+**Requirement:**
+You should include the assignment PDF in the root directory of your submission branch. Please do not change the filename, just paste the document verbatim.
 
 ### Evaluation and Scoring
 During the completion of this challenge, you will be expected to demonstrate experience with several technologies that are key components of our application development workflow, and that you will work with every day on our team. 
