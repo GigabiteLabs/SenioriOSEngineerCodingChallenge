@@ -10,7 +10,7 @@ A coding challenge for prospective Senior iOS Developers applying for a role on 
 	- [Evaluation and Scoring](#evaluation-and-scoring)
 		- [Scoring](#scoring)
 - [Continuous Integration and Automated Analysis of Submissions ](#continuous-integration-and-automated-analysis-of-submissions)
-- [Dev Team Swift/iOS Documentation Standards](#dev-team-swift-ios-documentation-standards)
+- [Dev Team Swift and iOS Documentation Standards](#dev-team-swift-and-ios-documentation-standards)
 - [Signed Commits with GPG](#signed-commits-with-gpg) (Required) 
 
 ## Goals
@@ -150,7 +150,7 @@ Pointers:
 	- Static analysis cannot be run locally using CodeBeat, but the outcome report will be accessible to the public, and you will be given a comprehensive overview of the composition of the score, what can be improved, and what specific issues were found
 - Use the static analysis report from CodeBeat to inform you as you look to improve the static analysis score, or resolve a failing static analysis.
 
-## Dev Team Swift/iOS Documentation Standards
+## Dev Team Swift and iOS Documentation Standards
 
 We use the standard Swift documentation approach supported in Xcode and used by Apple, however, we do have some sytlistic standards that you should adopt for your submission:
 
