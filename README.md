@@ -13,6 +13,60 @@ A coding challenge for prospective Senior iOS Developers applying for a role on 
 - [Dev Team Swift/iOS Documentation Standards](#dev-team-swift-ios-documentation-standards)
 - [Signed Commits with GPG](#signed-commits-with-gpg) (Required) 
 
+## Goals
+
+> Keep in mind that **there are no tricks**: each of these expectations are both able to be met, and justifiable development approaches given the assignment. 
+
+In order to set transparent expectations, the following list enumerates the *minimum* concepts that we expect to see demonstrated when evaluating your submission.
+
+- Demonstrated mastery of advanced programming concepts in swift for Apple platforms, including
+	- MVC application architecture
+		- Most-importantly: fully XCTest-able view controllers & classes (aka independent business logic from the UI / IB interface)
+	- Protocol-oriented programming
+	- Object-oriented programming
+	- Generics
+	- UIScene delegation in iOS 13.*
+	- Class, object, and attribute privacy and access-control levels
+	- The Codable protocol
+	- Working with RESTful APIs & raw JSON data
+	- URLSession & native networking in Swift
+	- Demonstrated experience working with data structures that are relevant to the assignment
+
+- Demonstrated experience with Xcode environments / schemes, & application capabilities, including:
+	- Shared schemes
+	- Elimination of OS activity debugger logs
+	- Sourcing environment variables from the Xcode env when running a target as debug
+	- Location services capabilities, including entitlement requirements, plist requirements, & user-permission requests / handling.
+	- Enabling XCTest code coverage calculations *for the framework target only*.
+
+- Working knowledge & experience with fully cross-platform, cross-technology framework development techniques, including:
+	- Full support for both Cocoapods & Swift Package Manager in a single framework repository
+	- Full support for **all** Xcode-supported device classes, *including* macOS (aka macCatalyst).
+	- Cocoapod framework development with bundled resources
+	- Proper referencing of resource bundles that are not part of the main bundle (located within a framework’s bundle and properly sourced from the framework vs main bundle).
+	- 0 third party dependencies for custom frameworks
+	- Development of an example application that fully implements the project’s cocoapod framework
+
+
+- Demonstrate experience with advanced Interface-builder concepts, including:
+	- Strategies for proper sourcing & instantiation of interface builder .xib & .storyboard files that belong to an encapsulated framework
+	- Variable autolayout traits for universal applications (iOS & iPadOS) that support all device classes & device orientations
+
+- Clean-code practices, including
+	- Single responsibility principal (SRP)
+	- Avoidance of overly complex code and common pitfalls such as cyclomatic dependencies, repeated code, large function signatures, very long lines of code, etc.
+	- Standard, quick-help & apple supported documentation of objects, extensions, object attributes, etc.-- especially if parameters or return types are specified in a function signature or initializer.
+
+- Advanced experience using Xcode’s XCTest Suite, including:
+	- 100% code coverage in XCTests for the framework target
+	- Writing XCTests with expectations to succeed.
+	- Writing XCTests with expectations to fail.
+	- Expecation / Wait / fulfill for asynchronus testing processes.
+	- Recording & running UITests using the framework’s example application.
+
+
+> Protip: if you feel as though you are adding something that is listed as a goal, but you do not feel that you have a good or clear justification for where or why you are adding it, you may be adding that feature / functionality in the wrong or non-optimal part of your assignment’s codebase.
+
 ## Submission Details and Evaluation Criteria
 ### Preparing Your Local Env
 
