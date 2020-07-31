@@ -134,7 +134,7 @@ You will also demonstrate a more general mastery of advanced software developmen
 **Total:** 100 possible points
 
 ## Continuous Integration and Automated Analysis of Submissions 
-All submissions will statically analyzed using a service called [CodeBeat](https://codebeat.io), and unit tested using [Travis](https://travis-ci.io)
+All submissions will statically analyzed using a service called [CodeBeat](https://codebeat.co), and unit tested using [Travis](https://travis-ci.io)
 
  - Both Static Analysis & Unit Tests are required to pass before a submission will be evaluated.
 - Code coverage is required to be at 95% or higher before a submission will be evaluated.
