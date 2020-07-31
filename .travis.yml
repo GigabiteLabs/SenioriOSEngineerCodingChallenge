@@ -14,4 +14,4 @@ before_install:
 - pod install --project-directory=Example
 script:
 - pod lib lint --verbose
-- swift build && swift lint
+- swift build && swift test
